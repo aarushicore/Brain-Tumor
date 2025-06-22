@@ -18,3 +18,14 @@ The model is built using **MobileNetV2** and wrapped in a **Flask** web applicat
 ---
 
 ## 🗂️ Project Structure
+brain-tumor/ ├── appbrain.py # Flask app ├── requirements.txt # Python dependencies ├── model/ │ └── mobilenetv2_model.h5 # Pre-trained Keras model ├── static/ │ └── uploads/ # Uploaded images folder ├── templates/ │ └── index.html # Web interface template └── .gitignore # Files/folders to ignore in Git
+
+---
+
+## 🚀 How to Run
+
+1. **Clone this repository:**
+
+```bash
+git clone https://github.com/AryaSingh-25/brain-tumor.git
+cd brain-tumor
