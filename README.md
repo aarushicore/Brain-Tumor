@@ -30,7 +30,7 @@ brain-tumor/ ├── appbrain.py # Flask app ├── requirements.txt # Pyth
 git clone https://github.com/AryaSingh-25/brain-tumor.git
 cd brain-tumor
 
-2. (Optional but recommended) Create a virtual environment:
+(Optional but recommended) Create a virtual environment:
 
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
